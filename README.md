@@ -44,4 +44,4 @@ Investment insights
 👩‍💻 Author
 
 Supriya Singh
-Aspiring Data Analyst | SQL • Python • Power BI • Tableau
+Data Analyst | SQL • Python • Power BI • Tableau
